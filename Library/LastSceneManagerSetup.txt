@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Leshen/Scenes/MainScene.unity
+=======
+- path: Assets/Scenes/StartScene.unity
+>>>>>>> 1cd598c1b6f6babd4d8a84c549d6f6bfd424209f
   isLoaded: 1
   isActive: 1
   isSubScene: 0
