@@ -1,5 +1,5 @@
 # vscode settings
-.vscode/
+.vscode/*
 .vscodeconfig
-Logs/
-Library/
+Logs/*
+Library/*
